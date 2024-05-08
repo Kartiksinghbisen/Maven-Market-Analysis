@@ -130,6 +130,7 @@ Definition: Data visualization is the graphical representation of data and infor
 ## Dashboard
 
 You can find the Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjg3ZGY1ZTUtZmY1Mi00NTY3LTgwMjQtZmRlYTMwYTFjOTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 You can find Video Presentation [here](https://www.linkedin.com/feed/update/urn:li:activity:7193574655348125696/)
 
 ## HOME VIEW
