@@ -123,6 +123,8 @@ Definition: Data visualization is the graphical representation of data and infor
 * How data modeling is utilized to structure and organize the data for effective analysis and visualization.
 * For example: Creating relationships between dimension and fact tables, defining measures and dimensions, etc.
 
+![Screenshot 2024-05-08 132349](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/2104b4b4-c8d7-48f6-9730-3fa611eb032c)
+
 
 
 ## Dashboard
@@ -131,12 +133,17 @@ You can find the Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJ
 
 ## HOME VIEW
 
+![Screenshot 2024-05-08 132208](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/f594f2bf-2cd1-4ba5-98be-08b25ae88a73)
+
 
 ## EXECUTIVE DASHBOARD
+![Screenshot 2024-05-08 132229](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/f6a90173-52c4-48a1-8c0b-99c5c2a2bd6c)
 
 
 ## PRODUCT DETAIL DASHBOARD
+![Screenshot 2024-05-08 132253](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/66542380-7185-49dd-a336-ca85088a9790)
 
 
 ## CUSTOMER DETAIL DASHBOARD
-Quantity
+![Screenshot 2024-05-08 132311](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/ed663107-9b00-4124-8202-35237ef066ea)
+![Screenshot 2024-05-08 132327](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/bf962d48-44a4-403f-900e-ba7b313f219b)
