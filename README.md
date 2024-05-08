@@ -130,6 +130,7 @@ Definition: Data visualization is the graphical representation of data and infor
 ## Dashboard
 
 You can find the Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjg3ZGY1ZTUtZmY1Mi00NTY3LTgwMjQtZmRlYTMwYTFjOTAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+You can find Video Presentation [here](https://www.linkedin.com/feed/update/urn:li:activity:7193574655348125696/)
 
 ## HOME VIEW
 
@@ -146,4 +147,6 @@ You can find the Interactive Dashboard [here](https://app.powerbi.com/view?r=eyJ
 
 ## CUSTOMER DETAIL DASHBOARD
 ![Screenshot 2024-05-08 132311](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/ed663107-9b00-4124-8202-35237ef066ea)
+
+## CUSTOM TOOL TIP
 ![Screenshot 2024-05-08 132327](https://github.com/Kartiksinghbisen/Maven-Market-Analysis/assets/139736045/bf962d48-44a4-403f-900e-ba7b313f219b)
